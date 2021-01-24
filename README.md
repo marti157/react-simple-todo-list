@@ -1,5 +1,7 @@
 # React simple todo list
 
+View a demo here: [Pages build](https://marti157.github.io/react-simple-todo-list/build/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
